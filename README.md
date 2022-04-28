@@ -2,9 +2,9 @@
 
 **PRGFlow** by <a href="http://prg.cs.umd.edu"><i>Perception & Robotics Group</i></a> at the Department of Computer Science, <a href="https://umd.edu/">University of Maryland- College Park</a>.
 
-### What will be released?
-We plan to release dataset and simulation setup used in this paper.
-(Follow this repository for more updates.)
+### Dataset
+
+The dataset is extension of [MOD dataset](https://arxiv.org/pdf/1906.02919.pdf). Please follow instructions for accessing dataset in ROS and Python [here](https://github.com/prgumd/EVDodgeNet/wiki) 
 
 ![0-MMS: Zero-Shot Multi-Motion Segmentation With A Monocular Event Camera](http://prg.cs.umd.edu/research/0-MMS_files/Banner.png)
 
@@ -18,7 +18,7 @@ We further speed up our method by using the concept of motion propagation and cl
 
 - [Project Page](https://prg.cs.umd.edu/0-MMS)
 - [Paper](https://prg.cs.umd.edu/research/0-MMS_files/0-MMS.pdf)
-- [arXiv Preprint (Coming Soon)](https://arxiv.org/pdf/...)
+- [arXiv Preprint](https://arxiv.org/pdf/2006.06158.pdf)
 
 
 ## License:
