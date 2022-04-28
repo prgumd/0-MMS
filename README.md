@@ -4,7 +4,7 @@
 
 ### Dataset
 
-The dataset is extension of [MOD dataset](https://arxiv.org/pdf/1906.02919.pdf). Please follow instructions for accessing dataset in ROS and Python [here](https://github.com/prgumd/EVDodgeNet/wiki) 
+This dataset is extension of [MOD dataset](https://arxiv.org/pdf/1906.02919.pdf). Please follow instructions for accessing dataset in ROS and Python [here](https://github.com/prgumd/EVDodgeNet/wiki) 
 
 ![0-MMS: Zero-Shot Multi-Motion Segmentation With A Monocular Event Camera](http://prg.cs.umd.edu/research/0-MMS_files/Banner.png)
 
